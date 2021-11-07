@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dubean</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-11-07T15:46:26.586Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Dubean</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Dennie</title>
+    <link href="http://example.com/2021/11/07/Text/"/>
+    <id>http://example.com/2021/11/07/Text/</id>
+    <published>2021-11-06T16:00:00.000Z</published>
+    <updated>2021-11-07T15:46:26.586Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to our blog !<br>I put our memories here, please remember them !</p><span id="more"></span><p>gogogo！</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to our blog !&lt;br&gt;I put our memories here, please remember them !&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="hello" scheme="http://example.com/categories/hello/"/>
+    
+    
+  </entry>
+  
+</feed>
