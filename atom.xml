@@ -35,4 +35,23 @@
     
   </entry>
   
+  <entry>
+    <title>123</title>
+    <link href="https://dubean.github.io/2021/11/09/123/"/>
+    <id>https://dubean.github.io/2021/11/09/123/</id>
+    <published>2021-11-09T00:00:00.000Z</published>
+    <updated>2021-11-09T08:26:21.402Z</updated>
+    
+    <content type="html"><![CDATA[<p>123</p><span id="more"></span><div class="video-container"><iframe src="https://www.youtube.com/embed/lJIrF4YjHfQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div><div class="video-container"><iframe src="https://www.youtube.com/embed/videoseries?list=PL9hW1uS6HUfscJ9DHkOSoOX45MjXduUxo" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;123&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="111" scheme="https://dubean.github.io/categories/111/"/>
+    
+    
+  </entry>
+  
 </feed>
