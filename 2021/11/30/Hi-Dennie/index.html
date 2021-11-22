@@ -93,16 +93,28 @@
 
 <hr>
 <h3 id="Haha-三周年啦！"><a href="#Haha-三周年啦！" class="headerlink" title="Haha 三周年啦！"></a>Haha 三周年啦！</h3>
-    <div id="aplayer-iTTNwJNg" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-AlfPmLGS" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="1303027499" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
     ></div>
-<p>🎵来，耳机分你~<br>比起 “7.21”，我更喜欢我们相遇的那天，就好像我们的故事应该是从这天开始才对。<br>这三年，我有在不断变化，也因你 改变了很多。</p>
+<p>🎵来，耳机分你~<br>比起 “7.21”，我更喜欢我们相遇的那天，就好像我们的故事应该是从这天开始才对。</p>
+<p id="times"></p>
+<script>
+function time() {
+    var now = new Date();
+    var time = now - new Date(2018, 11, 30, 16, 4, 0);
+    day = Math.floor(time / 1000 / 60 / 60 / 24); 
+    hour = Math.floor((time / 1000 / 60 / 60) % 24); 
+    minute = Math.floor((time / 1000 / 60) % 60); 
+    second = Math.floor((time / 1000) % 60); 
+    document.getElementById("times").innerHTML = "现在是我们相遇的" + day + "天" + hour + "小时" + minute + "分钟" + second + "秒";
+    if(now - new Date(2020, 11, 30, 16, 4, 0) < 0) document.getElementById("twenty").innerHTML = "";
+}
+setInterval("time()",250);
+</script>
+
 <hr>
-<h3 id="You-make-me-wan-to-be-a-better-man"><a href="#You-make-me-wan-to-be-a-better-man" class="headerlink" title="You make me wan to be a better man"></a>You make me wan to be a better man</h3><p>嘿嘿</p>
-<hr>
-<h3 id="I-will-always-be-even-lonely-open-into-the-sea"><a href="#I-will-always-be-even-lonely-open-into-the-sea" class="headerlink" title="I will always be, even lonely open into the sea"></a>I will always be, even lonely open into the sea</h3><p>哈哈</p>
+<h3 id="70岁买一把摇椅吧"><a href="#70岁买一把摇椅吧" class="headerlink" title="70岁买一把摇椅吧"></a>70岁买一把摇椅吧</h3><p>我希望我们70岁的时候，有一把摇椅<br>下午一起坐在摇椅里打盹儿，被头顶掠过的飞机吵醒，摇摇手里的扇子，又睡了<br>傍晚一起坐在摇椅里看日落，感受夕阳打在身上的温柔，我想看看夕阳下70岁的你的脸，我保证你美得能刻进我的脑海里<br>晚上一起坐在摇椅里吹晚风，看着月亮慢慢变圆，我会牵起你的手，悄悄对你说“我的答案找到啦~”</p>
 <p>寒来暑往，秋收冬藏，希望我们来日方长</p>
-<hr>
 
 
                             <!-- Meta -->
@@ -183,7 +195,7 @@
 
     <aside id="article-toc" role="navigation" class="fixed">
         <div id="article-toc-inner">
-            <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#Haha-%E4%B8%89%E5%91%A8%E5%B9%B4%E5%95%A6%EF%BC%81"><span class="toc-text">Haha 三周年啦！</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#You-make-me-wan-to-be-a-better-man"><span class="toc-text">You make me wan to be a better man</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#I-will-always-be-even-lonely-open-into-the-sea"><span class="toc-text">I will always be, even lonely open into the sea</span></a></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#Haha-%E4%B8%89%E5%91%A8%E5%B9%B4%E5%95%A6%EF%BC%81"><span class="toc-text">Haha 三周年啦！</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#70%E5%B2%81%E4%B9%B0%E4%B8%80%E6%8A%8A%E6%91%87%E6%A4%85%E5%90%A7"><span class="toc-text">70岁买一把摇椅吧</span></a></li></ol>
         </div>
     </aside>
 
