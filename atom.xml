@@ -6,7 +6,7 @@
   <link href="https://dubean.github.io/atom.xml" rel="self"/>
   
   <link href="https://dubean.github.io/"/>
-  <updated>2022-09-14T06:01:45.407Z</updated>
+  <updated>2022-10-17T07:31:28.062Z</updated>
   <id>https://dubean.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>起风了</title>
+    <link href="https://dubean.github.io/2022/10/17/2022-8-24-The-Wind-Rises/"/>
+    <id>https://dubean.github.io/2022/10/17/2022-8-24-The-Wind-Rises/</id>
+    <published>2022-10-17T00:00:00.000Z</published>
+    <updated>2022-10-17T07:31:28.062Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>我很喜欢秋冬<br>但是广东好像把秋天忘了</p><span id="more"></span><hr><p>可能是广东太热了<br>我从来就比较喜欢冷冷的季节<br>冷冷的空气会让人想起很多东西<br>被风吹得满地的叶子<br>偷偷穿上的秋裤<br>高中下午的跑操(那时每天都会伸脖子找我的女孩<br>摸黑去扫包干区<br>还有王菲的起床歌<br>按吉他很疼的手指<br>…<br>…<br>起风了 入秋吧~</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;我很喜欢秋冬&lt;br&gt;但是广东好像把秋天忘了&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Dubean" scheme="https://dubean.github.io/categories/Dubean/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>就去接受吧</title>
