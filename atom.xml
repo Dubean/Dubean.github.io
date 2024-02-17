@@ -6,7 +6,7 @@
   <link href="https://dubean.github.io/atom.xml" rel="self"/>
   
   <link href="https://dubean.github.io/"/>
-  <updated>2023-03-08T05:57:44.137Z</updated>
+  <updated>2024-02-17T18:57:33.491Z</updated>
   <id>https://dubean.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最后一页</title>
+    <link href="https://dubean.github.io/2024/02/18/The-End/"/>
+    <id>https://dubean.github.io/2024/02/18/The-End/</id>
+    <published>2024-02-17T16:00:00.000Z</published>
+    <updated>2024-02-17T18:57:33.491Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><span id="more"></span><hr><p>哪是什么三观不合<br>明明自己也不喜欢<br>明明自己也讨厌这种行为发生在自己身上<br>却还要打着朋友聊天的名义干着更暧昧的事情<br>那是普通朋友会做的事情吗？<br>谁会向普通朋友倾诉自己的心底啊？<br>对于一个正常的我来说何尝不是一种精神出轨？</p><hr><p>我懂这时候可能又要说<br>可是我没有暧昧啊<br>确实当时你可能没有想着要暧昧<br>可是在你去听诉、去安慰你的异性朋友的时候<br>你的心早已想不到我<br>而是去享受这个异性的心理上的亲密行为了<br>并且都很默契地打着三观不同<br>边界感不同的旗号去试探这难以定义的灰色地带<br>不愿去承认这个行为很暧昧</p><hr><p>谁不喜欢与相似的心灵交流呢<br>谁不喜欢自己对别人来说很重要呢<br>可是在享受异性带来的这种心理上的满足的时候<br>这就是一种超越普通朋友的心理上的亲密行为<br>这就是一种暧昧<br>你只是不断为自己辩解<br>甚至不惜打以前的自己的脸<br>我没有错 并且我已经仁至义尽了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Dubean" scheme="https://dubean.github.io/categories/Dubean/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>遗憾</title>
@@ -173,9 +195,9 @@
     <link href="https://dubean.github.io/2021/11/29/Hi-Dennie/"/>
     <id>https://dubean.github.io/2021/11/29/Hi-Dennie/</id>
     <published>2021-11-29T00:00:00.000Z</published>
-    <updated>2022-12-01T06:57:39.966Z</updated>
+    <updated>2024-02-17T19:15:56.246Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>✨三周年快乐！！<br>恭喜！你发现了宝藏🍄<br>你曾问我能不能把我们放进去<br>我没说的是，它的诞生就是为了记录“我们”🌵</p><span id="more"></span><hr><h3 id="Haha-Happy-3rd-Ann"><a href="#Haha-Happy-3rd-Ann" class="headerlink" title="Haha! Happy 3rd Ann!"></a>Haha! Happy 3rd Ann!</h3>    <div id="aplayer-PLZTNvxD" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1303027499" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>🎵来，耳机分你~<br>我喜欢我们相遇的那天，就好像我们的故事应该是从这一瞬间开始才对📷</p><div align=center>  <img src="/img/2018-11-30.JPG" alt="2018-11-30" title="是遇见✨">  <p><strong id="times"></strong></p>  <script>  function time() {      var now = new Date();      var time = now - new Date(2018, 10, 30, 16, 4, 0);      day = Math.floor(time / 1000 / 60 / 60 / 24);       hour = Math.floor((time / 1000 / 60 / 60) % 24);       minute = Math.floor((time / 1000 / 60) % 60);       second = Math.floor((time / 1000) % 60);       if (second < 10)       document.getElementById("times").innerHTML = "你知道吗，现在是故事开始的 " + day + " 天 " + hour + " 小时 " + minute + " 分钟 0" + second + " 秒~";      else      document.getElementById("times").innerHTML = "你知道吗，现在是故事开始的 " + day + " 天 " + hour + " 小时 " + minute + " 分钟 " + second + " 秒~";  }  setInterval("time()",250);  </script></div><hr><h3 id="An-exclusive-treasure-Hi-Dennie"><a href="#An-exclusive-treasure-Hi-Dennie" class="headerlink" title="An exclusive treasure - Hi Dennie"></a>An exclusive treasure - Hi Dennie</h3><p>我思考了很久，该给它取什么名字好呢…<br>直到有天晚上，我们打电话的时候，我先开口了<br>“Hi Dennie…” 那一刻我想，就是它了！<br>就像每晚的那句简单的招呼一样，它藏满了思念，藏满了一天的期待<br>等过了好久好久，等我把它塞得满满当当，你再回过头来看它<br>它还是像那句熟悉的“Hi Dennie” 里面满满的思念，只会越来越多</p><hr><h3 id="We-have-a-long-way-to-go"><a href="#We-have-a-long-way-to-go" class="headerlink" title="We have a long way to go"></a>We have a long way to go</h3><p>我在努力变厉害，为了以后我们能一起生活，我想和你一起经历很多很多，想和你一直在一起<br>“你说最好的人会到身边 此刻我也这样想 你终将看到我最美模样 出现~”<br>寒来暑往，秋收冬藏，希望我们来日方长</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>✨三周年快乐！！<br>恭喜！你发现了宝藏🍄<br>你曾问我能不能把我们放进去<br>我没说的是，它的诞生就是为了记录“我们”🌵</p><span id="more"></span><hr><h3 id="Haha-Happy-3rd-Ann"><a href="#Haha-Happy-3rd-Ann" class="headerlink" title="Haha! Happy 3rd Ann!"></a>Haha! Happy 3rd Ann!</h3>    <div id="aplayer-nYxxSVab" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1303027499" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>🎵来，耳机分你~<br>我喜欢我们相遇的那天，就好像我们的故事应该是从这一瞬间开始才对📷</p><div align=center>  <img src="/img/2018-11-30.JPG" alt="2018-11-30" title="是遇见✨">  <p><strong id="times"></strong></p>  <script>  function time() {      var now = new Date();      var end = new Date(2024, 1, 18, 0, 0, 0);      var time = end - new Date(2018, 10, 30, 16, 4, 0);      day = Math.floor(time / 1000 / 60 / 60 / 24);       hour = Math.floor((time / 1000 / 60 / 60) % 24);       minute = Math.floor((time / 1000 / 60) % 60);       second = Math.floor((time / 1000) % 60);       if (second < 10)       document.getElementById("times").innerHTML = "你知道吗，故事讲了 " + day + " 天 " + hour + " 小时 " + minute + " 分钟 0" + second + " 秒~";      else      document.getElementById("times").innerHTML = "你知道吗，故事讲了 " + day + " 天 " + hour + " 小时 " + minute + " 分钟 " + second + " 秒~";  }  setInterval("time()",250);  </script></div><hr><h3 id="An-exclusive-treasure-Hi-Dennie"><a href="#An-exclusive-treasure-Hi-Dennie" class="headerlink" title="An exclusive treasure - Hi Dennie"></a>An exclusive treasure - Hi Dennie</h3><p>我思考了很久，该给它取什么名字好呢…<br>直到有天晚上，我们打电话的时候，我先开口了<br>“Hi Dennie…” 那一刻我想，就是它了！<br>就像每晚的那句简单的招呼一样，它藏满了思念，藏满了一天的期待<br>等过了好久好久，等我把它塞得满满当当，你再回过头来看它<br>它还是像那句熟悉的“Hi Dennie” 里面满满的思念，只会越来越多</p><hr><h3 id="We-have-a-long-way-to-go"><a href="#We-have-a-long-way-to-go" class="headerlink" title="We have a long way to go"></a>We have a long way to go</h3><p>我在努力变厉害，为了以后我们能一起生活，我想和你一起经历很多很多，想和你一直在一起<br>“你说最好的人会到身边 此刻我也这样想 你终将看到我最美模样 出现~”<br>寒来暑往，秋收冬藏，希望我们来日方长</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;✨三周年快乐！！&lt;br&gt;恭喜！你发现了宝藏🍄&lt;br&gt;你曾问我能不能把我们放进去&lt;br&gt;我没说的是，它的诞生就是为了记录“我们”🌵&lt;/p&gt;</summary>
